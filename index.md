@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+#个人信息
+#### 姓名：郜航
+#### 学历：本科在读
+#### 学校：吉林大学
+#### 邮箱：Herbertgao@qq.com
+#### 地址：吉林大学南岭校区
 
-You can use the [editor on GitHub](https://github.com/Herbert-Gao/Herbert-Gao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 最新消息：
+1.保研至吉林大学人工智能学院
+2.完成MIT xPro PBL，Google项目
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 研究方向
+- 驾驶员行为分析
+- 图像识别
 
-### Markdown
+### 荣誉奖励
+#### 奖学金
+-2018年 至 2019年 吉林大学国家励志奖学金. 
+-2019年 至 2020年 吉林大学国家励志奖学金. 
+#### 比赛获奖
+-2018年 全国大学生英语竞赛三等奖 
+-2018&2019年&2020年 美国大学生数学建模竞赛成功参与奖三次 
+#### 获得荣誉
+-2018年12月 吉林大学汽车学院优秀学生 
+-2019年12月 吉林大学汽车学院优秀学生 
+-2020年12月 吉林大学汽车学院优秀学生
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 项目研究
+#### 大创项目（2019年4月-2020年4月）吉林大学,Matlab/Arduino编程
+- **基于伸缩轨道的自动化安全带系统**
+普适性:对车型和乘客没有要求,使用于任何车型和体型的乘客。
+智能化:对座椅上乘客的小幅动作能过主动避开,防止碰触。
+舒适性:根据不同体型的人生成轨道,整个过程中不会有任何不适。
+安全性:不改变安全带运行的方式,安全性能有保障。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Herbert-Gao/Herbert-Gao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### MIT xPRO（2020年9月-2021年1月）
+- **PBL-Google项目**
+学习人工智能相关的基本知识。
+参加Microsoft，Google，Apple公司一个具体应用人工智能的项目。
+取得MIT xPro颁发的结课证书。
+发表一篇关于人工智能应用的文章。
