@@ -34,15 +34,13 @@ profiles:
     url: 'mailto:herbert_gao@outlook.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/GaoHerbert31684
   - icon: brands/github
-    url: https://github.com/herbert_gao.io
+    url: https://github.com/Herbert-Gao
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/herbert_gao
+    url: https://www.linkedin.com/in/herbert-gao
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/herbert_gao
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-9165-2431
 
@@ -186,7 +184,7 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
+  - name: Germany
     percent: 25
 
 # Awards.
@@ -223,4 +221,9 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<font color='White' face='Italic'>
+Hang Gao is a researcher at the School of Artificial Intelligence, Jilin University. 
+His research interests include AI security, vehicle engineering, and mechanical engineering. 
+He built a sand-box platform for testing and evaluating the security of autonomous driving systems. 
+Right now, he is looking for a PhD opportunity in AI security.  
+</font>

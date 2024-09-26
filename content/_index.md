@@ -17,14 +17,15 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/cv_en.pdf
     design:
       css_class: dark
+      css_style: "color:#000000;" # set as black
       background:
-        color: black
+        # color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: school-new.svg
           filters:
             brightness: 1.0
           size: cover
@@ -33,13 +34,12 @@ sections:
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: ''
+      subtitle: '' 
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+          My research interests mainly focus on the application of machine learning and deep learning in the field of vehicle engineering. 
+          I am also interested in the application of embodied intelligence. 
+          ROS and RTOS are closely related to my research.
+          More interesting things a
     design:
       columns: '1'
   - block: collection

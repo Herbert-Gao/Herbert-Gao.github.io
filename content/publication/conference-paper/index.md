@@ -1,12 +1,22 @@
+<!--
+ * @Author: Hang_Gao herbert_gao@outlook.com
+ * @Date: 2024-09-21 17:43:01
+ * @LastEditors: Hang_Gao
+ * @LastEditTime: 2024-09-26 14:26:42
+ * @FilePath: \Herbert-Gao.github.io\content\publication\conference-paper\index.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by {Hang Gao}, All Rights Reserved. 
+-->
 ---
-title: 'An example conference paper'
+title: 'Adversarial Driving Behavior Generation Incorporating Human Risk Cognition for Autonomous Vehicle Evaluation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Zhen Liu, Hao Ma, Shuo Cai, Yunfeng Hu, Ting Qu; Hong Chen, Xun Gong.
 
 # Author notes (optional)
 author_notes:
