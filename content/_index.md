@@ -6,31 +6,42 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "1rem"
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/cv_en.pdf
+      text: |-
+          Hang Gao is a researcher at the School of Artificial Intelligence, Jilin University. 
+          His research interests include AI security, vehicle engineering, and mechanical engineering. 
+          He built a sand-box platform for testing and evaluating the security of autonomous driving systems. 
+          Right now, he is looking for a PhD opportunity in AI security.
+          <div style="margin-top: 20px;">
+            <a class="btn btn-primary" href="uploads/cv_en.pdf">[Download CV]</a>
+            <a class="btn btn-primary" href="uploads/past_research.pdf">[Past Researches]</a>
+            <a class="btn btn-primary" href="background/">[Edu Background]</a>
+            <a class="btn btn-primary" href="uploads/PhD_Plans.pdf">[PhD Plans]</a>
+          </div>
     design:
-      css_class: dark
-      css_style: "color:#000000;" # set as black
-      background:
-        # color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: school-new.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      # css_class: "bg-primary-700"
+      # css_style: "color:#FFFFFF;" # set as black
+      card:
+        css_class: "bg-primary-700"
+        css_style: "background-color: rgba(0, 0, 0, 0.8);"
+      spacing:
+        padding: [0, 0, 0, 0]
+      # background:
+      #   color: black
+      #   image:
+      #     # Add your image background to `assets/media/`.
+      #     filename: school-new.svg
+      #     filters:
+      #       brightness: 1.0
+      #     size: cover
+      #     position: center
+      #     parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
@@ -38,35 +49,25 @@ sections:
       text: |-
           My research interests mainly focus on the application of machine learning and deep learning in the field of vehicle engineering. 
           I am also interested in the application of embodied intelligence. 
-          ROS and RTOS are closely related to my research.
-          More interesting things a
+          ROS and RTOS are closely related to my past research and I have a solid foundation in these areas.
+          More interesting things about me can be found in my [past researches](uploads/past_research.pdf), [education background](uploads/edu_background.pdf), and [future plans](uploads/future_plans.pdf).
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
       title: Recent Publications
-      text: ""
       filters:
         folders:
           - publication
-        exclude_featured: false
+        # exclude_featured: false
     design:
       view: citation
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks
       filters:
         folders:
           - event
@@ -122,4 +123,20 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+
+  - block: markdown
+    content:
+      title: "👋 Self Validation"
+      subtitle: "This is Hang Gao's homepage, maintained by Hang Gao."
+      text: |-
+        I would like to challenge myself.
+        Jumping into different fields makes me feel excited.
+        I think security will be the next hot topic after artificial intelligence.
+        I am learning more about it ever since 2020 and I believe that I will make a difference in this field.
+        
+        I am a self-motivated person and a fast learner.
+        I always try to learn something new in different fields and apply it to my research.
+        Sports and music are my favorite things in life.
+        
+        When facing an unsolvable problem, books are always good helpers and AI will offer assistance.
 ---

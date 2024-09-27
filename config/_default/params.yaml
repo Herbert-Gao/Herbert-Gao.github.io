@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Homepage"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} by Gao. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -49,8 +49,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'June 20, 2024'
+  time_format: '15:04'
 
 # Site features
 features:
