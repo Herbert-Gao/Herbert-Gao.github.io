@@ -47,15 +47,18 @@ sections:
       title: '📚 My Research'
       subtitle: '' 
       text: |-
+        <div class='justify-text'>
           My research interests mainly focus on the application of machine learning and deep learning in the field of vehicle engineering. 
           I am also interested in embodied intelligence. 
           ROS (Robot Operating System) and RTOS (Real Time Operating System) are closely related to my past research and I have a solid foundation in these areas.
           I have a knowledge base of rule-based reasoning and knowledge representation in controlling, like classic PID, and modern-control like MPC, Robust control, RL.
           Furthermore, I am also familiar with the design of deep learning models. 
-          More interesting things about me can be found in [past researches], [education background], and [future plans].
-          Some files may be unavailable yet, please mail to me at [herbert_gao@outlook.com] if you are interested.
+          More interesting things about me can be found in past researches, education background, and future plans.
+          Some files may be unavailable yet, please mail to me at herbert_gao@outlook.com if you are interested.
+          </div>
     design:
       columns: '1'
+      css_class: "justify-text"
 
   - block: collection
     id: papers
@@ -132,7 +135,13 @@ sections:
       title: "👋 Self Validation"
       subtitle: "This is Hang Gao's homepage, maintained by Hang Gao."
       text: |-
+        <div class='justify-text'>
         I prefer to challenge myself. I like trying new things. Security will be the next big thing with AI. I've been learning about it since 2020 and I want to make a difference. 
         I'm self-motivated and I learn quickly. For example, when there are needs for ROS, I learn about it and write a document for others to learn from. 
         I like to learn new things and use them in my research. I like sports and music. Books are good for solving problems. AI can help us searching in the limited time.
+
+        This site has not been fully completed yet. I will update it later.
+        </div>
+      design:
+        css_class: "justify-text"
 ---
