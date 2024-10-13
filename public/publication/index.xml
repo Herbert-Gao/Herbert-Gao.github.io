@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
@@ -13,28 +13,10 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my 
- on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <title>Enhancing Planning for Autonomous Driving via an Iterative Optimization Framework Incorporating Safety-critical Trajectories Generation</title>
+      <link>http://localhost:1313/publication/remote-sensing24/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/remote-sensing24/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -47,102 +29,32 @@
 &lt;/span&gt;
   &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
 &lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <title>Generation of Autonomous Vehicle Testing Trajectories for Cut-In Scenario Integrating Data and Kinematics</title>
+      <link>http://localhost:1313/publication/cac24/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cac24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Driving Behavior Generation Incorporating Human Risk Cognition for Autonomous Vehicle Evaluation</title>
+      <link>http://localhost:1313/publication/iros23/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/iros23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two corporated SCI manuscripts are under reviewed. One survey SCI manuscript is under writing. One conference paper is under writing.</title>
+      <link>http://localhost:1313/publication/more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
-      <description>&lt;!--
- * @Author: Hang_Gao herbert_gao@outlook.com
- * @Date: 2024-09-21 17:43:01
- * @LastEditors: Hang_Gao
- * @LastEditTime: 2024-09-26 14:26:42
- * @FilePath: \Herbert-Gao.github.io\content\publication\conference-paper\index.md
- * @Description: 
- * 
- * Copyright (c) 2024 by {Hang Gao}, All Rights Reserved. 
---&gt;
-&lt;hr&gt;
-&lt;p&gt;title: &amp;lsquo;Adversarial Driving Behavior Generation Incorporating Human Risk Cognition for Autonomous Vehicle Evaluation&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;authors&#34;&gt;Authors&lt;/h1&gt;
-&lt;h1 id=&#34;if-you-created-a-profile-for-a-user-eg-the-default-admin-user-write-the-username-folder-name-here&#34;&gt;If you created a profile for a user (e.g. the default &lt;code&gt;admin&lt;/code&gt; user), write the username (folder name) here&lt;/h1&gt;
-&lt;h1 id=&#34;and-it-will-be-replaced-with-their-full-name-and-linked-to-their-profile&#34;&gt;and it will be replaced with their full name and linked to their profile.&lt;/h1&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;li&gt;Zhen Liu, Hao Ma, Shuo Cai, Yunfeng Hu, Ting Qu; Hong Chen, Xun Gong.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;author-notes-optional&#34;&gt;Author notes (optional)&lt;/h1&gt;
-&lt;p&gt;author_notes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;lsquo;Equal contribution&amp;rsquo;&lt;/li&gt;
-&lt;li&gt;&amp;lsquo;Equal contribution&amp;rsquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;date: &amp;lsquo;2013-07-01T00:00:00Z&amp;rsquo;
-doi: &#39;&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
-&lt;p&gt;publishDate: &amp;lsquo;2017-01-01T00:00:00Z&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-&lt;h1 id=&#34;accepts-a-single-type-but-formatted-as-a-yaml-list-for-hugo-requirements&#34;&gt;Accepts a single type but formatted as a YAML list (for Hugo requirements).&lt;/h1&gt;
-&lt;h1 id=&#34;enter-a-publication-type-from-the-csl-standard&#34;&gt;Enter a publication type from the CSL standard.&lt;/h1&gt;
-&lt;p&gt;publication_types: [&amp;lsquo;paper-conference&amp;rsquo;]&lt;/p&gt;
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-publication-name&#34;&gt;Publication name and optional abbreviated publication name.&lt;/h1&gt;
-&lt;p&gt;publication: In &lt;em&gt;Hugo Blox Builder Conference&lt;/em&gt;
-publication_short: In &lt;em&gt;ICW&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;h1 id=&#34;summary-an-optional-shortened-abstract&#34;&gt;Summary. An optional shortened abstract.&lt;/h1&gt;
-&lt;p&gt;summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/p&gt;
-&lt;p&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Large Language Models&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;display-this-page-in-the-featured-widget&#34;&gt;Display this page in the Featured widget?&lt;/h1&gt;
-&lt;p&gt;featured: true&lt;/p&gt;
-&lt;h1 id=&#34;custom-links-uncomment-lines-below&#34;&gt;Custom links (uncomment lines below)&lt;/h1&gt;
-&lt;h1 id=&#34;links&#34;&gt;links:&lt;/h1&gt;
-&lt;h1 id=&#34;--name-custom-link&#34;&gt;- name: Custom Link&lt;/h1&gt;
-&lt;h1 id=&#34;url-httpexampleorg&#34;&gt;url: 
-&lt;/h1&gt;
-&lt;p&gt;url_pdf: &amp;rsquo;&amp;rsquo;
-url_code: &amp;lsquo;
-
-url_dataset: &amp;lsquo;
-
-url_poster: &amp;rsquo;&amp;rsquo;
-url_project: &amp;rsquo;&amp;rsquo;
-url_slides: &amp;rsquo;&amp;rsquo;
-url_source: &amp;lsquo;
-
-url_video: &amp;lsquo;
-&amp;rsquo;&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
-&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: 
-&amp;rsquo;
-focal_point: &amp;rsquo;&amp;rsquo;
-preview_only: false&lt;/p&gt;
-&lt;h1 id=&#34;associated-projects-optional&#34;&gt;Associated Projects (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-internal-project-references-contentprojectinternal-projectindexmd&#34;&gt;E.g. &lt;code&gt;internal-project&lt;/code&gt; references &lt;code&gt;content/project/internal-project/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-projects-&#34;&gt;Otherwise, set &lt;code&gt;projects: []&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;projects:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;example&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-publication-with-markdown-slides&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;h2 id=&#34;slides-example&#34;&gt;slides: example&lt;/h2&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+      <guid>http://localhost:1313/publication/more/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
@@ -154,8 +66,7 @@ preview_only: false&lt;/p&gt;
 &lt;/span&gt;
   &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
 &lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

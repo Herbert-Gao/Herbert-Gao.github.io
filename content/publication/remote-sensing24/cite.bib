@@ -1,0 +1,17 @@
+
+@Article{rs16193721,
+AUTHOR = {Liu, Zhen and Gao, Hang and Lin, Yeting and Gong, Xun},
+TITLE = {Enhancing Planning for Autonomous Driving via an Iterative Optimization Framework Incorporating Safety-Critical Trajectory Generation},
+JOURNAL = {Remote Sensing},
+VOLUME = {16},
+YEAR = {2024},
+NUMBER = {19},
+ARTICLE-NUMBER = {3721},
+URL = {https://www.mdpi.com/2072-4292/16/19/3721},
+ISSN = {2072-4292},
+ABSTRACT = {Ensuring the safety of autonomous vehicles (AVs) in complex and high-risk traffic scenarios remains a critical unresolved challenge. Current AV planning methods exhibit limitations in generating robust driving trajectories that effectively avoid collisions, highlighting the urgent need for improved planning strategies to address these issues. This paper introduces a novel iterative optimization framework that incorporates safety-critical trajectory generation to enhance AV planning. The use of the HighD dataset, which is collected using the wide-area remote sensing capabilities of unmanned aerial vehicles (UAVs), is fundamental to the framework. Remote sensing enables large-scale real-time observation of traffic conditions, providing precise data on vehicle dynamics, road structures, and surrounding environments. To generate safety-critical trajectories, the decoder within the conditional variational auto-encoder (CVAE) is innovatively designed through a data-mechanism integration method, ensuring that these trajectories strictly adhere to vehicle kinematic constraints. Furthermore, two parallel CVAEs (Dual-CVAE) are trained collaboratively by a shared objective function to implicitly model the multi-vehicle interactions. Inspired by the concept of “learning to collide”, adversarial optimization is integrated into the Dual-CVAE (Adv. Dual-CVAE), facilitating efficient generation from normal to safety-critical trajectories. Building upon this, these generated trajectories are then incorporated into an iterative optimization framework, significantly enhancing the AV’s planning ability to avoid collisions. This framework decomposes the optimization process into stages, initially addressing normal trajectories and progressively tackling more safety-critical and collision trajectories. Finally, comparative case studies of enhancing AV planning are conducted and the simulation results demonstrate that the proposed method can efficiently enhance AV planning by generating safety-critical trajectories.},
+DOI = {10.3390/rs16193721}
+}
+
+
+

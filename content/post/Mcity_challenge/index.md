@@ -1,20 +1,18 @@
 ---
 title: 🎉 We take part in the Mcity AV Challenge 2024 with team "JLU_AI" and take the eighth place!
 summary: Mcity AV Challenge is an online autonomous driving challenge held by Mcity, Ann Arbor, Michigan.
-date: 2024-08-15
+date: 2024-09-27
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  
 
 authors:
   - admin
 
 tags:
   - Academic
-  - Hugo Blox
-  - Markdown
 ---
 
 Welcome 👋
@@ -23,9 +21,9 @@ Welcome 👋
 
 ## Overview
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. The main objective of the Mcity AV Challenge is to rigorously assess the driving intelligence of AVs in realistic traffic environments. An interactive simulator is provided, featuring a high-fidelity simulation environment within the Mcity Test Facility, a dedicated AV testing facility that incorporates a diverse range of driving scenarios, including highways, intersections, and roundabouts.
+2. We design an AV decision-making module based on Model Predictive Control (MPC) that enables the successful completion of various routes, prioritizing safety, efficiency, and comfort.
+3. Finally, we take the eighth place in the challenge out of 20+ teams around the world.
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 

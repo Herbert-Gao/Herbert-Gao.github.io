@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Hang Gao"
-date: 2022-10-24
+date: 2024-10-13
 type: landing
 
 design:
@@ -10,17 +10,17 @@ design:
 
 sections:
   - block: resume-biography-3
-    content:
+    content:  
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-          Hang Gao is a researcher at the School of Artificial Intelligence, Jilin University. 
+          Hang Gao is a student researcher at the School of Artificial Intelligence, Jilin University. 
           His research interests include AI security, vehicle engineering, and mechanical engineering. 
           He built a sand-box platform for testing and evaluating the security of autonomous driving systems. 
           Right now, he is looking for a PhD opportunity in AI security.
           <div style="margin-top: 20px;">
-            <a class="btn btn-primary" href="uploads/cv_en.pdf">[Download CV]</a>
-            <a class="btn btn-primary" href="uploads/past_research.pdf">[Past Researches]</a>
+            <a class="btn btn-primary" href="uploads/cv_en.pdf">[The updated CV]</a>
+            <a class="btn btn-primary" href="uploads/past_research_github.pdf">[Past Researches]</a>
             <a class="btn btn-primary" href="background/">[Edu Background]</a>
             <a class="btn btn-primary" href="uploads/PhD_Plans.pdf">[PhD Plans]</a>
           </div>
@@ -48,9 +48,12 @@ sections:
       subtitle: '' 
       text: |-
           My research interests mainly focus on the application of machine learning and deep learning in the field of vehicle engineering. 
-          I am also interested in the application of embodied intelligence. 
-          ROS and RTOS are closely related to my past research and I have a solid foundation in these areas.
-          More interesting things about me can be found in my [past researches](uploads/past_research.pdf), [education background](uploads/edu_background.pdf), and [future plans](uploads/future_plans.pdf).
+          I am also interested in embodied intelligence. 
+          ROS (Robot Operating System) and RTOS (Real Time Operating System) are closely related to my past research and I have a solid foundation in these areas.
+          I have a knowledge base of rule-based reasoning and knowledge representation in controlling, like classic PID, and modern-control like MPC, Robust control, RL.
+          Furthermore, I am also familiar with the design of deep learning models. 
+          More interesting things about me can be found in [past researches](static/uploads/past_research_github.pdf), [education background](background/), and [future plans](static/uploads/future_plans.pdf).
+          Some files may be unavailable yet, please attach me at [herbert_gao@outlook.com](mailto:herbert_gao@outlook.com) if you are interested.
     design:
       columns: '1'
 
@@ -129,14 +132,5 @@ sections:
       title: "👋 Self Validation"
       subtitle: "This is Hang Gao's homepage, maintained by Hang Gao."
       text: |-
-        I would like to challenge myself.
-        Jumping into different fields makes me feel excited.
-        I think security will be the next hot topic after artificial intelligence.
-        I am learning more about it ever since 2020 and I believe that I will make a difference in this field.
-        
-        I am a self-motivated person and a fast learner.
-        I always try to learn something new in different fields and apply it to my research.
-        Sports and music are my favorite things in life.
-        
-        When facing an unsolvable problem, books are always good helpers and AI will offer assistance.
+        I want to challenge myself. I like trying new things. Security will be the next big thing with AI. I've been learning about it since 2020 and I want to make a difference. I'm self-motivated and I learn quickly. For example, when there are needs for ROS, I learn about it and write a document for others to learn from. I like to learn new things and use them in my research. I like sports and music. Books are good for solving problems. AI can help us searching in the limited time.
 ---
