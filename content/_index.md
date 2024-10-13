@@ -52,7 +52,7 @@ sections:
           ROS (Robot Operating System) and RTOS (Real Time Operating System) are closely related to my past research and I have a solid foundation in these areas.
           I have a knowledge base of rule-based reasoning and knowledge representation in controlling, like classic PID, and modern-control like MPC, Robust control, RL.
           Furthermore, I am also familiar with the design of deep learning models. 
-          More interesting things about me can be found in [past researches](static/uploads/past_research_github.pdf), [education background](background/), and [future plans](static/uploads/future_plans.pdf).
+          More interesting things about me can be found in [past researches](uploads/past_research_github.pdf), [education background](background/), and [future plans](uploads/future_plans.pdf).
           Some files may be unavailable yet, please attach me at [herbert_gao@outlook.com](mailto:herbert_gao@outlook.com) if you are interested.
     design:
       columns: '1'
@@ -132,5 +132,7 @@ sections:
       title: "👋 Self Validation"
       subtitle: "This is Hang Gao's homepage, maintained by Hang Gao."
       text: |-
-        I want to challenge myself. I like trying new things. Security will be the next big thing with AI. I've been learning about it since 2020 and I want to make a difference. I'm self-motivated and I learn quickly. For example, when there are needs for ROS, I learn about it and write a document for others to learn from. I like to learn new things and use them in my research. I like sports and music. Books are good for solving problems. AI can help us searching in the limited time.
+        I prefer to challenge myself. I like trying new things. Security will be the next big thing with AI. I've been learning about it since 2020 and I want to make a difference. 
+        I'm self-motivated and I learn quickly. For example, when there are needs for ROS, I learn about it and write a document for others to learn from. 
+        I like to learn new things and use them in my research. I like sports and music. Books are good for solving problems. AI can help us searching in the limited time.
 ---
