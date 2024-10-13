@@ -52,8 +52,8 @@ sections:
           ROS (Robot Operating System) and RTOS (Real Time Operating System) are closely related to my past research and I have a solid foundation in these areas.
           I have a knowledge base of rule-based reasoning and knowledge representation in controlling, like classic PID, and modern-control like MPC, Robust control, RL.
           Furthermore, I am also familiar with the design of deep learning models. 
-          More interesting things about me can be found in [past researches](uploads/past_research_github.pdf), [education background](background/), and [future plans](uploads/future_plans.pdf).
-          Some files may be unavailable yet, please attach me at [herbert_gao@outlook.com](mailto:herbert_gao@outlook.com) if you are interested.
+          More interesting things about me can be found in [past researches], [education background], and [future plans].
+          Some files may be unavailable yet, please mail to me at [herbert_gao@outlook.com] if you are interested.
     design:
       columns: '1'
 
