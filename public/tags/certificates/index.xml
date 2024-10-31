@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certificates | Visits the Gao Hang&#39;s Homepage</title>
+    <link>http://localhost:1313/tags/certificates/</link>
+      <atom:link href="http://localhost:1313/tags/certificates/index.xml" rel="self" type="application/rss+xml" />
+    <description>Certificates</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Certificates</title>
+      <link>http://localhost:1313/tags/certificates/</link>
+    </image>
+    
+    <item>
+      <title>MIT Autonomous Driving Project</title>
+      <link>http://localhost:1313/background/mit_ad/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/background/mit_ad/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/mit-acl/mit-autonomous-driving&#34;&gt;MIT Autonomous Driving Project&lt;/a&gt; is a Programm for Undergraduate Research and Education at MIT.
+I have been working on this project for 12 weeks.
+&lt;a href=&#34;static/mit_ad/mit_ad_finish_certi.pdf&#34;&gt;Certificate&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/mit_ad/mit_ad_grades.pdf&#34;&gt;Grades&lt;/a&gt; are available to be access by anyone.&lt;/p&gt;
+&lt;p&gt;In this project, I have worked on the following topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unsupervised Learning&lt;/li&gt;
+&lt;li&gt;Deep Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We use &lt;a href=&#34;https://www.cityscapes-dataset.com&#34;&gt;Cityscape Dataset&lt;/a&gt; for training and testing.
+An architecture of U-net is used for training.
+The illustration of the dataset can be shown below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/static/mit_ad/cityscape_dataset.png&#34; alt=&#34;Cityscape Dataset&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

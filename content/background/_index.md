@@ -1,6 +1,6 @@
 ---
 title: Academic Background
-summary: Teaching materials and documents
+summary: Academic background of the group.
 type: landing
 
 cascade:
@@ -21,3 +21,5 @@ sections:
       view: article-grid
       columns: 4
 ---
+
+![illustration](/uploads/illustration.png)

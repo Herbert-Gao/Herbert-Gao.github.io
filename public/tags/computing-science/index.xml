@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computing Science | Visits the Gao Hang&#39;s Homepage</title>
+    <link>http://localhost:1313/tags/computing-science/</link>
+      <atom:link href="http://localhost:1313/tags/computing-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computing Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Computing Science</title>
+      <link>http://localhost:1313/tags/computing-science/</link>
+    </image>
+    
+    <item>
+      <title>Bachelor Degree in Vechile Engineering, Jilin University.</title>
+      <link>http://localhost:1313/background/jlu_bach/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/background/jlu_bach/</guid>
+      <description>&lt;h1 id=&#34;brief-intro&#34;&gt;Brief Intro&lt;/h1&gt;
+&lt;p&gt;this is the intro&lt;/p&gt;
+&lt;h2 id=&#34;mechanical-engineering&#34;&gt;Mechanical Engineering&lt;/h2&gt;
+&lt;h2 id=&#34;controller-design&#34;&gt;Controller Design&lt;/h2&gt;
+&lt;h2 id=&#34;mechanics&#34;&gt;Mechanics&lt;/h2&gt;
+&lt;h2 id=&#34;electrical-engineering&#34;&gt;Electrical Engineering&lt;/h2&gt;
+&lt;h2 id=&#34;computing-science&#34;&gt;Computing Science&lt;/h2&gt;
+&lt;h2 id=&#34;embeded-tech-develop&#34;&gt;Embeded Tech Develop&lt;/h2&gt;
+&lt;h2 id=&#34;thermodynamic&#34;&gt;Thermodynamic&lt;/h2&gt;
+&lt;h2 id=&#34;fluid-mechanics&#34;&gt;Fluid Mechanics&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
