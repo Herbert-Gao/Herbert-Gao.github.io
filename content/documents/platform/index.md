@@ -1,28 +1,19 @@
 ---
 title: Sand-box Platform
-summary: Easily learn Python in 10 minutes!
+summary: Building up sandbox platform and writting docs in teaching ROS.
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - ROS, RTOS, Embeded System, Hardware-Software
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-## Video
+This is one of the series teaching docs based on Yahboom Intel.
+Platform Documents in Simulation, Written by Gao Hang.
+Relevant official documents of Yahboom can be accessed through Baidu.com disc link：https://pan.baidu.com/s/1K3-0E7OJcxcLKkgUwdN3BQ?
 
-![A capture of real sand-box platform](/static/sandbox.png)
-
-{{< youtube D2vj0WcvH5c >}}
-
-**Youtube**:
-
-    {{</* youtube w7Ft2ymGmfc */>}}
-
-**Bilibili**:
-
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
 
 **Video file**
 

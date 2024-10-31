@@ -1,16 +1,20 @@
 ---
 title: Linux
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+summary: Familiar with multiple linux distributions, Ubuntu, Debian, Kali, Deepin ...
+date: 2020-10-1
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Shell, Bash, Zsh
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Kali linux feature with network security tools.'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+I accessed to linux when I was still a Bachelor student.
+I have tried to use Linux for my work and personal experiments, like CARLA, SUMO and ROS Ubuntu. 
+Moreover, linux system on Arm based devices and x86 based devices are expericed during my working experience.
+To explore more on Linux, I once installed Termux and AidLux (both are apps for emulating Linux) and code on the phone, trying to explore the Wi-Fi with python or compiling Latex in 2020.
+
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
