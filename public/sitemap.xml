@@ -198,7 +198,7 @@
     <lastmod>2021-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/background/jlu_bach/</loc>
+    <loc>http://localhost:1313/tags/certificates/</loc>
     <lastmod>2021-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -222,7 +222,15 @@
     <lastmod>2021-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/background/jlu_bach/</loc>
+    <lastmod>2021-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/background/jlu_master/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/infomation-science/</loc>
     <lastmod>2020-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
