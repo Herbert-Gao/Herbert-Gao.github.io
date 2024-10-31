@@ -1,7 +1,7 @@
 ---
 title: Linux
 summary: Familiar with multiple linux distributions, Ubuntu, Debian, Kali, Deepin ...
-date: 2020-10-1
+date: 2023-10-1
 type: docs
 math: false
 tags:

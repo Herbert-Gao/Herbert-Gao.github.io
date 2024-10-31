@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/shell-bash-zsh/</link>
       <atom:link href="http://localhost:1313/tags/shell-bash-zsh/index.xml" rel="self" type="application/rss+xml" />
     <description>Shell, Bash, Zsh</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Shell, Bash, Zsh</title>
@@ -15,9 +15,12 @@
     <item>
       <title>Linux</title>
       <link>http://localhost:1313/documents/linux/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/documents/linux/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+      <description>&lt;p&gt;I accessed to linux when I was still a Bachelor student.
+I have tried to use Linux for my work and personal experiments, like CARLA, SUMO and ROS Ubuntu.
+Moreover, linux system on Arm based devices and x86 based devices are expericed during my working experience.
+To explore more on Linux, I once installed Termux and AidLux (both are apps for emulating Linux) and code on the phone, trying to explore the Wi-Fi with python or compiling Latex in 2020.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
