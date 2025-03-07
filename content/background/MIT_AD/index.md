@@ -16,6 +16,7 @@ I have been working on this project for 12 weeks.
 
 In this project, I have worked on the following topics:
 - Unsupervised Learning
+- Computer Vision
 - Deep Learning
 
 We use [Cityscape Dataset](https://www.cityscapes-dataset.com) for training and testing. 

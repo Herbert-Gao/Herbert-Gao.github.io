@@ -1,11 +1,11 @@
 ---
 title: Control Science and Technology
-summary: An breif introduction to MIT xPro Blended Learning Project.
-date: 2020-10-24
+summary: This 
+date: 2021-09-01
 type: docs
 math: false
 tags:
   - Infomation Science
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'This is the master degree I am pursuing now!'
 ---
