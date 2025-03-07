@@ -17,12 +17,11 @@ sections:
           Hang Gao is a student researcher at the School of Artificial Intelligence, Jilin University. 
           His research interests include AI security, vehicle engineering, and mechanical engineering. 
           He built a sand-box platform for testing and evaluating the security of autonomous driving systems. 
-          Right now, he is looking for a PhD opportunity in AI security.
+          Right now, he is looking for a job opportunity.
           <div style="margin-top: 20px;">
             <a class="btn btn-primary" href="uploads/cv_en.pdf">[The updated CV]</a>
             <a class="btn btn-primary" href="uploads/past_research_github.pdf">[Past Researches]</a>
             <a class="btn btn-primary" href="background/">[Edu Background]</a>
-            <a class="btn btn-primary" href="uploads/PhD_Plans.pdf">[PhD Plans]</a>
           </div>
     design:
       # css_class: "bg-primary-700"
