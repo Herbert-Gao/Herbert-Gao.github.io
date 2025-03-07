@@ -23,6 +23,7 @@ I have been working on this project for 12 weeks.
 &lt;p&gt;In this project, I have worked on the following topics:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Unsupervised Learning&lt;/li&gt;
+&lt;li&gt;Computer Vision&lt;/li&gt;
 &lt;li&gt;Deep Learning&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We use &lt;a href=&#34;https://www.cityscapes-dataset.com&#34;&gt;Cityscape Dataset&lt;/a&gt; for training and testing.
@@ -33,27 +34,9 @@ The illustration of the dataset can be shown below:&lt;/p&gt;
     </item>
     
     <item>
-      <title>Vechile Engineering</title>
-      <link>http://localhost:1313/background/jlu_bach/</link>
-      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/background/jlu_bach/</guid>
-      <description>&lt;h1 id=&#34;brief-intro&#34;&gt;Brief Intro&lt;/h1&gt;
-&lt;p&gt;this is the intro&lt;/p&gt;
-&lt;h2 id=&#34;mechanical-engineering&#34;&gt;Mechanical Engineering&lt;/h2&gt;
-&lt;h2 id=&#34;controller-design&#34;&gt;Controller Design&lt;/h2&gt;
-&lt;h2 id=&#34;mechanics&#34;&gt;Mechanics&lt;/h2&gt;
-&lt;h2 id=&#34;electrical-engineering&#34;&gt;Electrical Engineering&lt;/h2&gt;
-&lt;h2 id=&#34;computing-science&#34;&gt;Computing Science&lt;/h2&gt;
-&lt;h2 id=&#34;embeded-tech-develop&#34;&gt;Embeded Tech Develop&lt;/h2&gt;
-&lt;h2 id=&#34;thermodynamic&#34;&gt;Thermodynamic&lt;/h2&gt;
-&lt;h2 id=&#34;fluid-mechanics&#34;&gt;Fluid Mechanics&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Control Science and Technology</title>
       <link>http://localhost:1313/background/jlu_master/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/background/jlu_master/</guid>
       <description></description>
     </item>
@@ -181,6 +164,60 @@ data.head()
     &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
   &lt;/span&gt; Python&lt;/p&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vechile Engineering</title>
+      <link>http://localhost:1313/background/jlu_bach/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/background/jlu_bach/</guid>
+      <description>&lt;h1 id=&#34;brief-intro&#34;&gt;Brief Intro&lt;/h1&gt;
+&lt;p&gt;The Vehicle Engineering major at Jilin University is renowned in the field of automotive education and research.
+Researches focus on automotive dynamics and control.
+This area delves into the study of vehicle handling stability, ride comfort, and braking performance.
+Researchers conduct in-depth investigations into the dynamic characteristics of vehicles under various driving conditions, aiming to develop advanced control strategies and technologies to enhance vehicle safety and maneuverability.
+For example, they analyze the effects of suspension systems, tire-road interactions, and steering mechanisms on vehicle dynamics and strive to optimize these components and their control algorithms.&lt;/p&gt;
+&lt;h2 id=&#34;mechanical-engineering&#34;&gt;Mechanical Engineering&lt;/h2&gt;
+&lt;p&gt;Mechanical systems are of vital significance in vehicle engineering.
+In the design stage, they are used to determine the overall vehicle architecture and conduct component design and selection.
+During manufacturing, they enable machining, forming, assembly and commissioning of parts.
+In the operation stage, they are responsible for power transmission and conversion.
+Overall, mechanical systems permeate every aspect of vehicle engineering, from initial concept to daily use and maintenance.&lt;/p&gt;
+&lt;h2 id=&#34;controller&#34;&gt;Controller&lt;/h2&gt;
+&lt;p&gt;Controller will be needed to obtain a good performance for vehicles, offering drivers a good driving experience.
+Matlab is the basic coding software for design a basic cotroller.
+Classic controll methods like PID and statbility criteria like Routh-Hurwitz Criterion is learned.
+Laplace Transform methods are used to transform converting a time-domain signal into a frequency-domain signal.
+Vehicle specialized softwares, like Prescan, Carsim are used to run the co-simulation on computers.&lt;/p&gt;
+&lt;h2 id=&#34;electrical-engineering&#34;&gt;Electrical Engineering&lt;/h2&gt;
+&lt;p&gt;Electrical Engineering is of utmost significance in the automotive domain.
+It is involved in power generation and management via the alternator and battery management systems.
+It dictates the design and control of electric motors and associated power electronics in electric and hybrid vehicles.
+It shapes vehicle control systems like ECUs and ADAS.
+It revolutionizes lighting and signal systems, enhancing visibility and communication.
+Also, it drives the development of infotainment and communication systems, enriching the driving experience and laying the foundation for intelligent transportation.&lt;/p&gt;
+&lt;h2 id=&#34;computing-science&#34;&gt;Computing Science&lt;/h2&gt;
+&lt;p&gt;Computational science, with the help of C++, plays a crucial and multifaceted role in the field of vehicle engineering.
+In vehicle dynamics simulation, C++ is used to construct precise models and achieve real-time visualization, facilitating the optimization of handling and stability.
+During the development of autonomous driving systems, it undertakes tasks such as sensor data processing, path planning, and decision-making to ensure the safe and intelligent operation of vehicles.
+In terms of intelligent transportation system integration, C++ can be employed to develop communication protocols and applications for the Internet of Vehicles, enabling information exchange between vehicles and with infrastructure.
+It can also be used for traffic flow optimization, providing a solid technical foundation and a powerful programming tool guarantee for the efficient, intelligent, and safe development of modern vehicle engineering.&lt;/p&gt;
+&lt;h2 id=&#34;embeded-tech-develop&#34;&gt;Embeded Tech Develop&lt;/h2&gt;
+&lt;p&gt;Embedded systems are widely and crucially applied in the automotive field.
+They are the core of vehicle control systems such as engine control units and transmission control, optimizing engine performance and power transfer.
+They also power advanced driver assistance systems like adaptive cruise control and lane departure warning, enhancing driving safety and reducing driver fatigue.
+Moreover, they enable infotainment systems, providing multimedia, navigation, and connectivity features, thereby making cars not only a means of transportation but also a hub of entertainment and information, greatly improving the overall driving experience and the intelligence level of vehicles.
+During my bachlor range, Aridno UNO and Rawsparrey Pi are used to&lt;/p&gt;
+&lt;h2 id=&#34;thermodynamic&#34;&gt;Thermodynamic&lt;/h2&gt;
+&lt;p&gt;Thermodynamics is a branch of physics that studies the relationships between heat, work, energy, and temperature.
+Fuel is fired in the combustion, releasing a significant amount of heat energy.
+This intense heat causes the gases to expand rapidly, creating high pressure within the combustion chamber.
+In this process, gas is generated rapidly from liquid fuel and compressed into different emmision contaminants due to the compression.
+Thermodynamic helps understand this process and offers an priciple for optimizing the engine.&lt;/p&gt;
+&lt;h2 id=&#34;fluid-mechanics&#34;&gt;Fluid Mechanics&lt;/h2&gt;
+&lt;p&gt;Like the Jet flying in the sky, vehicles also concern fluid mechanics when driving in high speed.
+The turbulence in fluid mechanics offers an priciple when design the shape of vehicle.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/infomation-science/</link>
       <atom:link href="http://localhost:1313/tags/infomation-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Infomation Science</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Infomation Science</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Control Science and Technology</title>
       <link>http://localhost:1313/background/jlu_master/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/background/jlu_master/</guid>
       <description></description>
     </item>
